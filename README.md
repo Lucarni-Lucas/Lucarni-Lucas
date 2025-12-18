@@ -47,9 +47,9 @@
 
 ### 🧑‍💻 IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-6F41DE?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-92E250?style=for-the-badge&logo=pycharm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-EB3FA9?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ---
 

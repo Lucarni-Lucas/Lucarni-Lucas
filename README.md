@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-## 👋 Hi, I'm Lucas Lucarni
+## 👋 Hi, I'm Lucas Nahuel Lucarni
 
 - 🧠 I'm a Computer Science student at the National University of Quilmes.
 - 👀 Interested in Backend Development, AI & Machine Learning
